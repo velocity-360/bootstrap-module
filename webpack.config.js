@@ -7,8 +7,8 @@ module.exports = {
 		app: './src/index.js'
 	},
 	output: {
-		filename: 'dist/bundle.js',
-		sourceMapFilename: 'dist/bundle.map'
+		filename: 'dist/bootstrap.js',
+		sourceMapFilename: 'dist/bootstrap.map'
 	},
 	devtool: '#source-map',
 	plugins: process.env.NODE_ENV === 'production' ? [
