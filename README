@@ -1,0 +1,2 @@
+Moudule for loading Bootstrap CSS into React components.
+To use in component, import like so: import bootstrapLoader from 'bootstrap-module'
